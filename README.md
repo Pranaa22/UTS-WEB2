@@ -19,4 +19,5 @@ TI.23.A2
 
 # Cara Pencegahannya
 Prepared Statements (PDO atau MySQLi)
+
 <img src="/Gitimage(UTS)/Picture4.png" img>
