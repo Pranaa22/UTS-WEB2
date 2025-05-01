@@ -9,14 +9,14 @@ TI.23.A2
 
 # HASIL EKSPERIMEN
 # Kode PHP Rentan:
-<img src="/Gitimage(UTS)/picture1.png" img>
+<img src="/Gitimage(UTS)/Picture1.png" img>
 
 # Dan login tanpa password yang benar (SQL Injection).
-<img src="/Gitimage(UTS)/picture2.png" img>
+<img src="/Gitimage(UTS)/Picture2.png" img>
 
 # Maka hasilnya:
-<img src="/Gitimage(UTS)/picture3.png" img>
+<img src="/Gitimage(UTS)/Picture3.png" img>
 
 # Cara Pencegahannya
 Prepared Statements (PDO atau MySQLi)
-<img src="/Gitimage(UTS)/picture4.png" img>
+<img src="/Gitimage(UTS)/Picture4.png" img>
