@@ -24,3 +24,8 @@ TI.23.A2
 Prepared Statements (PDO atau MySQLi)
 
 <img src="/Gitimage(UTS)/Picture4.png" img>
+
+**Hasil Cek Plagiarisme**
+
+<img src="/Gitimage(UTS)/Picture5.png" img>
+
